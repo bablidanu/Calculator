@@ -25,8 +25,6 @@ function calc(event) {
 }
 
 function calculateExpression(expression) {
-  // You can use a library like mathjs or implement your own expression parser
-  // For simplicity, we'll use a basic parser here
   const operators = ["+", "-", "*", "/"];
   let result = 0;
   let operator = "+";
