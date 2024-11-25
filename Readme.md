@@ -44,4 +44,4 @@ The code is structured into three main files:
 - `style.css`: contains the CSS styles for the calculator
 - `main.js`: contains the JavaScript logic for the calculator
 
-![Screenshot](image.png)
+![Screenshot](calc.png)
